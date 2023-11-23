@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CryptoVerse/static/css/main.858e9603.css",
+    "main.js": "/CryptoVerse/static/js/main.f50f3636.js",
+    "static/js/787.e5f691c2.chunk.js": "/CryptoVerse/static/js/787.e5f691c2.chunk.js",
+    "index.html": "/CryptoVerse/index.html",
+    "main.858e9603.css.map": "/CryptoVerse/static/css/main.858e9603.css.map",
+    "main.f50f3636.js.map": "/CryptoVerse/static/js/main.f50f3636.js.map",
+    "787.e5f691c2.chunk.js.map": "/CryptoVerse/static/js/787.e5f691c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858e9603.css",
+    "static/js/main.f50f3636.js"
+  ]
+}
